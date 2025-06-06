@@ -18,7 +18,7 @@ However, we felt that two elements per restaurant wasn’t enough to capture the
 We ran our PCA to break down the location data into four dimensions and normalized the scores (also important later), which is visualized below as six different relationship graphs between the four axes.
 
 <p align="center">
-  <img src="image3.png" height="200" alt="Four-dim relationship graphs">
+  <img src="image3.png" height="500" alt="Four-dim relationship graphs">
 </p>
 
 **Fig 2 – 2-D relationship graphs between the “vibes” in 4-D space**
@@ -52,7 +52,7 @@ We opted for a weighted sum, with *favorites* and *dislikes* pulling the scores 
 The most common personality type on Corner, according to our models, is someone who lives to hang out and shop, goes out at night, is probably a regular at a café, but likes to try food from many different cultures.
 
 <p align="center">
-  <img src="image7.png" height="200" alt="User vibe scores overlay">
+  <img src="image7.png" height="500" alt="User vibe scores overlay">
 </p>
 
 **Fig 5 – User vibe scores overlaying location vibe scores**
